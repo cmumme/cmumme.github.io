@@ -1,3 +1,3 @@
 <div align=center>
-<i>Coming soon</i>
+  <h3><i>Coming soon</i></h3>
 </div>
