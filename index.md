@@ -1,5 +1,5 @@
 ---
-layout: nofooter
+layout: landing
 description: Fullstack web developer and Roblox game developer
 ---
 
