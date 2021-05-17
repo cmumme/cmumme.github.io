@@ -1,5 +1,6 @@
 ---
 layout: nofooter
+description: Fullstack web developer and Roblox game developer
 ---
 
 <div align=center>
